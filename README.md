@@ -7,6 +7,7 @@ I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a Third Year CSE
 
 ## Find me around the web 🌎: <a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/stuti-chaturvedi-b88a5318b/">LinkedIn</a> 💼
+- Chilling and gaming on <a herf="https://discord.gg/cc7bYFarXT"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a> and <a href="https://www.youtube.com/channel/UCgYuxYEREkzGRtEEwOQVkHQ">YouTube</a>
 </br></br></br></br></br>
 <!--<img width=55% align="right" src="https://github-readme-stats.vercel.app/api?username=CryptoGerm&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="CryptoGerm's Github Stats">
 <img width=40% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CryptoGerm&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="CryptoGerm's most used languages">-->
