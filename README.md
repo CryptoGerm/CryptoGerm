@@ -7,8 +7,9 @@ I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a Third Year CSE
 - Sharing updates on <a href="https://www.linkedin.com/in/stuti-chaturvedi-b88a5318b/">LinkedIn</a> 💼
 - Chilling and gaming on <a href="https://discord.gg/cc7bYFarXT">Discord</a> and <a href="https://www.youtube.com/channel/UCgYuxYEREkzGRtEEwOQVkHQ">YouTube</a> 🎮
 </br></br></br></br></br>
-<details>
-<summary><b>Tools and technologies 🌎:</b> <a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a></summary>
+<details align="right">
+<summary><b>Tools and technologies 🌎:</b> <a href="#"><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a></summary>
+<center>
 	
  Category | Skills
 --- | ---
@@ -23,22 +24,21 @@ Game Engines | <img align="center" src="https://raw.githubusercontent.com/Crypto
 Automation | <img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/zapier-icon.svg" alt="zapier" width="40" height="40"/>
 Operating System | <img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/linux-original.svg" alt="linux" width="40" height="40"/><img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/apple-original.svg" alt="iOS" width="40" height="40"/><img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/windows8-original.svg" alt="Windows" width="40" height="40"/><img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </details>
-
-<details>
+</center>
+<details align="right">
 <summary>My GitHub Stats</summary>
 <a href="https://github.com/CryptoGerm/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=CryptoGerm&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 </details>
 
-<details>
+<details align="right">
 <summary>Most used Languages</summary>
 <a href="https://github.com/CryptoGerm/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoGerm&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 </details>
 	
-</br></br></br></br></br>
 
 ### Let's Connect :coffee:
 <p align="center">
