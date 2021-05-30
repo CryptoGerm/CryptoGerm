@@ -7,9 +7,9 @@ I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a Third Year CSE
 - Sharing updates on <a href="https://www.linkedin.com/in/stuti-chaturvedi-b88a5318b/">LinkedIn</a> 💼
 - Chilling and gaming on <a href="https://discord.gg/cc7bYFarXT">Discord</a> and <a href="https://www.youtube.com/channel/UCgYuxYEREkzGRtEEwOQVkHQ">YouTube</a> 🎮
 </br></br></br></br></br>
-<p align="center">
+
 <details>
-<summary><b>Tools and technologies 🌎:</b> <a href="#"><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a></summary>
+<summary><b>Tools and technologies ⚙:</b> <a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a></summary>
 	
  Category | Skills
 --- | ---
@@ -26,20 +26,18 @@ Operating System | <img align="center" src="https://raw.githubusercontent.com/Cr
 </details>
 
 <details>
-<summary>My GitHub Stats</summary>
+<summary>My GitHub Stats <img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/assets/stats.gif" width="30px"></summary>
 <a href="https://github.com/CryptoGerm/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=CryptoGerm&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 </details>
 
-<detail>
+<details>
 <summary>Most used Languages</summary>
 <a href="https://github.com/CryptoGerm/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoGerm&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 </details>
-
-</p>
 
 ### Let's Connect :coffee:
 <p align="center">
