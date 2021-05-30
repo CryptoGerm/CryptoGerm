@@ -7,9 +7,9 @@ I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a Third Year CSE
 - Sharing updates on <a href="https://www.linkedin.com/in/stuti-chaturvedi-b88a5318b/">LinkedIn</a> 💼
 - Chilling and gaming on <a href="https://discord.gg/cc7bYFarXT">Discord</a> and <a href="https://www.youtube.com/channel/UCgYuxYEREkzGRtEEwOQVkHQ">YouTube</a> 🎮
 </br></br></br></br></br>
-
+<a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a>
 <details>
-<summary><b>Tools and technologies ⚙:</b> <a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a></summary>
+<summary><b>Tools and technologies</b> <img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/assets/tools.gif" width="20px"></summary>
 	
  Category | Skills
 --- | ---
