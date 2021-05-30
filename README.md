@@ -26,7 +26,7 @@ Operating System | <img align="center" src="https://raw.githubusercontent.com/Cr
 </details>
 
 <details>
-<summary>My GitHub Stats <img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/assets/stats.gif" width="30px"></summary>
+<summary>My GitHub Stats <img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/assets/stats.gif" width="20px"></summary>
 <a href="https://github.com/CryptoGerm/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=CryptoGerm&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
