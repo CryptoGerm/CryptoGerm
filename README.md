@@ -7,7 +7,8 @@ I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a Third Year CSE
 - Sharing updates on <a href="https://www.linkedin.com/in/stuti-chaturvedi-b88a5318b/">LinkedIn</a> 💼
 - Chilling and gaming on <a href="https://discord.gg/cc7bYFarXT">Discord</a> and <a href="https://www.youtube.com/channel/UCgYuxYEREkzGRtEEwOQVkHQ">YouTube</a> 🎮
 </br></br></br></br></br>
-## Tools and technologies 🌎: <a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a>
+<details>
+<summary>## Tools and technologies 🌎: <a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a></summary>
 
 
  Category | Skills
@@ -22,7 +23,8 @@ Software | <img align="center" src="https://raw.githubusercontent.com/CryptoGerm
 Game Engines | <img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 Automation | <img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/zapier-icon.svg" alt="zapier" width="40" height="40"/>
 Operating System | <img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/linux-original.svg" alt="linux" width="40" height="40"/><img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/apple-original.svg" alt="iOS" width="40" height="40"/><img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/windows8-original.svg" alt="Windows" width="40" height="40"/><img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-
+</details>
+	
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/CryptoGerm"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
