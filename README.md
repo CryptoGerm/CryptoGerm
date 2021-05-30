@@ -8,7 +8,7 @@ I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a Third Year CSE
 - Chilling and gaming on <a href="https://discord.gg/cc7bYFarXT">Discord</a> and <a href="https://www.youtube.com/channel/UCgYuxYEREkzGRtEEwOQVkHQ">YouTube</a> 🎮
 </br></br></br></br></br>
 <details>
-## <summary>Tools and technologies 🌎: <a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a></summary>
+	<summary><font size=5><b>Tools and technologies 🌎:</b></font> <a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a></summary>
 
 
  Category | Skills
