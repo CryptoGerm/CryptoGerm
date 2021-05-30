@@ -7,10 +7,9 @@ I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a Third Year CSE
 - Sharing updates on <a href="https://www.linkedin.com/in/stuti-chaturvedi-b88a5318b/">LinkedIn</a> 💼
 - Chilling and gaming on <a href="https://discord.gg/cc7bYFarXT">Discord</a> and <a href="https://www.youtube.com/channel/UCgYuxYEREkzGRtEEwOQVkHQ">YouTube</a> 🎮
 </br></br></br></br></br>
-<details align="right">
-	<summary><font size=5><b>Tools and technologies 🌎:</b></font> <a href="#"><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a></summary>
-
-
+<details>
+<summary><font size=10><b>Tools and technologies 🌎:</b></font> <a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a></summary>
+	
  Category | Skills
 --- | ---
 Programming Languages |  <img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/c-original.svg" width="40" alt="C" height="40"/><img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/cplusplus-original.svg" alt="C++" width="40" height="40"><img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/java-original.svg" alt="java" width="40" height="40"/><img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/javascript-original.svg" alt="javascript" width="40" height="40"/><img align="center" src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/icons/python-original.svg" alt="python" width="40" height="40"/>
