@@ -7,7 +7,7 @@ I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a Third Year CSE
 - Sharing updates on <a href="https://www.linkedin.com/in/stuti-chaturvedi-b88a5318b/">LinkedIn</a> 💼
 - Chilling and gaming on <a href="https://discord.gg/cc7bYFarXT">Discord</a> and <a href="https://www.youtube.com/channel/UCgYuxYEREkzGRtEEwOQVkHQ">YouTube</a> 🎮
 </br></br></br></br></br>
-<center>
+<p align="center">
 <details>
 <summary><b>Tools and technologies 🌎:</b> <a href="#"><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a></summary>
 	
@@ -38,7 +38,8 @@ Operating System | <img align="center" src="https://raw.githubusercontent.com/Cr
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoGerm&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 </details>
-</center>	
+
+</p>
 
 ### Let's Connect :coffee:
 <p align="center">
