@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/header-clouds-intro.png" alt="banner that says Hey there, I'm Stuti - NICE TO MEET YOU on top of a cloud background">
 <p>
 I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a Third Year CSE student at <a href="https://www.upes.ac.in/">@UPES :school: </a> and aspiring software developer :computer:. Interested in working on Web Development and Databases and currently learning about Data Scienece. Occassionally I participate in Hackathons :bulb:
@@ -9,7 +7,7 @@ I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a Third Year CSE
 - Sharing updates on <a href="https://www.linkedin.com/in/stuti-chaturvedi-b88a5318b/">LinkedIn</a> 💼
 - Chilling and gaming on <a href="https://discord.gg/cc7bYFarXT">Discord</a> and <a href="https://www.youtube.com/channel/UCgYuxYEREkzGRtEEwOQVkHQ">YouTube</a> 🎮
 </br></br></br></br></br>
-## Tools and technologies 🌎: <a href="#"><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a>
+## Tools and technologies 🌎: <a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a>
 
 
  Category | Skills
