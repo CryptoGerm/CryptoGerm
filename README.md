@@ -53,7 +53,7 @@ Operating System | <img align="center" src="https://raw.githubusercontent.com/Cr
 <h2 align="right">Projects 📋</h2>
 <details align="right">
 	<summary><b>E-Shikshalaya</b></summary>
-	<p align="center">An online learning initiative emphasizing on gaining knowledge in computer languages guided by University Professors. Focused on implementing this smart learning methodology for school students in India.</p></br>	
+	<p align="center">An online learning initiative emphasizing on gaining knowledge in computer languages guided by University Professors. Focused on implementing this smart learning methodology for school students in India.</p>
 		Link : <i><a href="www.eshikshalaya.in">www.eshikshalaya.in</a></br></i>
 		Tech used : <i>Bootstrap, HTML, PHP, SQL, JavaScript</i>
 </details>
