@@ -52,10 +52,14 @@ Operating System | <img align="center" src="https://raw.githubusercontent.com/Cr
 <img align="right" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/assets/coding.gif?raw=true">
 <h2 align="right">Projects 📋</h2>
 <p align="right">
-	<details>
+	<details align="right">
 		<summary>E-Shikshalaya</summary>
-* Description
-: Hello
+		<ul>
+			<li>Description
+				<p>An online learning initiative emphasizing on gaining knowledge in computer languages guided by University Professors. Focused on implementing this smart learning methodology for school students in India.</p>
+			<li>Link
+				<p><a href="www.eshikshalaya.in">
+		</ul>	
 	</details>
 </p>
 		
