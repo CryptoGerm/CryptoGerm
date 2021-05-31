@@ -49,6 +49,16 @@ Operating System | <img align="center" src="https://raw.githubusercontent.com/Cr
 </details>
 </br></br></br>
 
+<img align="right" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/assets/coding.gif?raw=true">
+<h2 align="right">Projects 📋</h2>
+<p align="right">
+	<details>
+		<summary>E-Shikshalaya</summary>
+* Description
+: Hello
+	</details>
+</p>
+		
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/CryptoGerm"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
