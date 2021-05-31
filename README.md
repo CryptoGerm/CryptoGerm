@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/header-clouds-intro.png" alt="banner that says Hey there, I'm Stuti - NICE TO MEET YOU on top of a cloud background">
+<samp>
 <p>
 	I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a third Year Computer Science and Engineering student at <a href="https://www.upes.ac.in/">UPES :school: </a> and aspiring Data Scientist :computer:.</br></br>
 	As a CSE student, my research interests are centered around Web Development and Data Science, particularly Data Analysis of huge amount of data to derive meaningful insights out of it. However, I am broadly interested in applying machine learning techniques to create automated systems by modeling human behaviour. Outside of Computer Science, I am passionate about a variety of topics, one of which is Armed Forces.</br></br>
@@ -57,3 +58,4 @@ Operating System | <img align="center" src="https://raw.githubusercontent.com/Cr
 	<a href="https://www.instagram.com/stutichaturvedi19/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/stutiiee"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
+</samp>
