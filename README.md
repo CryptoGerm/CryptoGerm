@@ -54,11 +54,9 @@ Operating System | <img align="center" src="https://raw.githubusercontent.com/Cr
 <p align="right">
 	<details align="right">
 		<summary>E-Shikshalaya</summary>
-		An online learning initiative emphasizing on gaining knowledge in computer languages guided by University Professors. Focused on implementing this smart learning methodology for school students in India.
-		<ul align="right">	
-			<li>Link : <p><a href="www.eshikshalaya.in">
-			<li>Tech used : Bootstrap, HTML, PHP, SQL, JavaScript
-		</ul>	
+		An online learning initiative emphasizing on gaining knowledge in computer languages guided by University Professors. Focused on implementing this smart learning methodology for school students in India.</br>	
+			Link : <a href="www.eshikshalaya.in"></a>
+			Tech used : Bootstrap, HTML, PHP, SQL, JavaScript
 	</details>
 </p>
 		
