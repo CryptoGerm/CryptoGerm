@@ -42,7 +42,7 @@ Operating System | <img align="center" src="https://raw.githubusercontent.com/Cr
 
 <details>
 	<summary>
-		<b>Most used Languages</b> <img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/assets/push-pin.gif" width="20px">
+		<b>Most used Languages</b> <img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/assets/pie-chart.gif" width="20px">
 	</summary>
 	<a href="https://github.com/CryptoGerm/github-readme-stats">
  		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoGerm&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
