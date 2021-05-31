@@ -49,7 +49,7 @@ Operating System | <img align="center" src="https://raw.githubusercontent.com/Cr
 </details>
 </br></br></br>
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/assets/coding.gif?raw=true">
+<img align="right" width="200" height="200" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/assets/coding.gif?raw=true">
 <h2 align="right">Projects 📋</h2>
 <p align="right">
 	<details align="right">
