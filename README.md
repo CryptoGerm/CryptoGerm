@@ -11,7 +11,7 @@
 - Chilling and gaming on <a href="https://discord.gg/cc7bYFarXT">Discord</a> and <a href="https://www.youtube.com/channel/UCgYuxYEREkzGRtEEwOQVkHQ">YouTube</a> 🎮
 </br></br></br></br></br>
 
-<a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/assets/computer.gif?raw=true"></a>
+<a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/assets/calculator.gif?raw=true"></a>
 <details>
 	<summary>
 		<b>Tools and Technologies</b><img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/assets/tools.gif" width="20px">
