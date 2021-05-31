@@ -49,14 +49,14 @@ Operating System | <img align="center" src="https://raw.githubusercontent.com/Cr
 </details>
 </br></br></br>
 
-<img align="right" width="200" height="250" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/assets/coding.gif?raw=true">
+<img align="right" width="200" height="220" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/assets/coding.gif?raw=true">
 <h2 align="right">Projects 📋</h2>
 <p align="right">
 	<details align="right">
-		<summary>E-Shikshalaya</summary>
+		<summary><b>E-Shikshalaya</b></summary>
 		<p align="center">An online learning initiative emphasizing on gaining knowledge in computer languages guided by University Professors. Focused on implementing this smart learning methodology for school students in India.</p></br>	
-			Link : <a href="www.eshikshalaya.in">www.eshikshalaya.in</a></br>
-			Tech used : Bootstrap, HTML, PHP, SQL, JavaScript
+			Link : <i><a href="www.eshikshalaya.in">www.eshikshalaya.in</a></br></i>
+			Tech used : <i>Bootstrap, HTML, PHP, SQL, JavaScript</i>
 	</details>
 </p>
 		
