@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/header-clouds-intro.png" alt="banner that says Hey there, I'm Stuti - NICE TO MEET YOU on top of a cloud background">
 <p>
-	I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a Third Year CSE student at <a href="https://www.upes.ac.in/">@UPES :school: </a> and aspiring software developer :computer:. Interested in working on Web Development and Databases and currently learning about Data Scienece. Occassionally I participate in Hackathons :bulb:
+	I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a third Year Computer Science and Engineering student at <a href="https://www.upes.ac.in/">UPES :school: </a> and aspiring Data Scientist :computer:.
+	As a CSE student, my research interests are centered around Web Development and Data Science, particularly Data Analysis of huge amount of data to derive meaningful insights out of it. However, I am broadly interested in applying machine learning techniques to create automated systems by modeling human behaviour. Outside of Computer Science, I am passionate about a variety of topics, one of which is Armed Forces.
+	I occassionally participate in Hackathons :bulb:. I continue to be enthusiastic about developing my existing skills and expanding my knowledge of the field.
 </p>
 
 ## Find me around the web 🌎: <a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a>
@@ -11,7 +13,7 @@
 <a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/CryptoGerm-octocat-rotating.gif?raw=true"></a>
 <details>
 	<summary>
-		<b>Tools and technologies</b> <img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/assets/tools.gif" width="20px">
+		<b>Tools and Technologies</b> <img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/assets/tools.gif" width="20px">
 	</summary>
 	
 Category | Skills
