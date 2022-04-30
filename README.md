@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/header-clouds-intro.png" alt="banner that says Hey there, I'm Stuti - NICE TO MEET YOU on top of a cloud background">
 <samp>
 <p>
-	I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a third Year Computer Science and Engineering student at <a href="https://www.upes.ac.in/">UPES</a>🎓 and aspiring Data Scientist:computer:.</br></br>
-	As a CSE student, my research interests are centered around Web Development🌐 and Data Science💻, particularly Data Analysi📊 of huge amount of data to derive meaningful insights out of it. However, I am broadly interested in applying machine learning techniques to create automated systems by modeling human behaviour🤖. Outside of Computer Science, I am passionate about a variety of topics, one of which is Armed Forces.</br></br>
+	I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a pre-final year Computer Science and Engineering student at <a href="https://www.upes.ac.in/">UPES</a>🎓 and aspiring Data Scientist:computer:.</br></br>
+	As a CSE student, my research interests are centered around Web Development🌐 and Data Science💻, particularly Data Analysis📊 of huge amount of data to derive meaningful insights out of it. However, I am broadly interested in applying machine learning techniques to create automated systems by modeling human behaviour🤖. Outside of Computer Science, I am passionate about a variety of topics, one of which is Armed Forces.</br></br>
 	I occassionally participate in Hackathons:bulb:. I continue to be enthusiastic about developing my existing skills and expanding my knowledge of the field.
 </p>
 
@@ -51,6 +51,12 @@ Operating System | <img align="center" src="https://raw.githubusercontent.com/Cr
 
 <img align="right" width="200" height="220" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/assets/coding.gif?raw=true">
 <h2 align="right">Projects 📋</h2>
+<details align="right">
+	<summary><b>Design and Development of a Statistical Model for Ranking of a territory using Machine Learning Algorithms</b></summary>
+	<p align="center">A home grown method of creating human development indexes, focused on Indian states/territories, using Fuzzy AHP method for assigning weights to parameters for score calculation.</p>
+		Link : <i><a href="https://github.com/CryptoGerm/human-development-index-india">Human Development Index-India</a></br></i>
+		Tech used : <i>C++, Weight Assignment(using Fuzzy AHP), Data Analysis</i>
+</details>
 <details align="right">
 	<summary><b>E-Shikshalaya</b></summary>
 	<p align="center">An online learning initiative emphasizing on gaining knowledge in computer languages guided by University Professors. Focused on implementing this smart learning methodology for school students in India.</p>
