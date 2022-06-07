@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/header-clouds-intro.png" alt="banner that says Hey there, I'm Stuti - NICE TO MEET YOU on top of a cloud background">
 <samp>
 <p>
-	I'm <a href="https://cryptogerm.github.io/">Stuti</a> currently a pre-final year Computer Science and Engineering student at <a href="https://www.upes.ac.in/">UPES</a>🎓 and aspiring Data Scientist:computer:.</br></br>
+	I'm <a href="https://cryptogerm.github.io/">Stuti</a>, a final year student pursuing a Bachelor of Technology in Computer Science Engineering with a concentration in Big Data at <a href="https://www.upes.ac.in/">UPES</a>🎓.</br></br>
 	As a CSE student, my research interests are centered around Web Development🌐 and Data Science💻, particularly Data Analysis📊 of huge amount of data to derive meaningful insights out of it. However, I am broadly interested in applying machine learning techniques to create automated systems by modeling human behaviour🤖. Outside of Computer Science, I am passionate about a variety of topics, one of which is Armed Forces.</br></br>
 	I occassionally participate in Hackathons:bulb:. I continue to be enthusiastic about developing my existing skills and expanding my knowledge of the field.
 </p>
@@ -13,7 +13,7 @@
 
 <details>
 	<summary>
-		<b>Tools and Technologies</b><img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/assets/tools.gif" width="20px"><a href="#"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/CryptoGerm/Cryptogerm/main/assets/neon.gif?raw=true"></a>
+		<b>Tools and Technologies</b>
 	</summary>
 	
 Category | Skills
@@ -32,7 +32,7 @@ Operating System | <img align="center" src="https://raw.githubusercontent.com/Cr
 
 <details>
 	<summary>
-		<b>My GitHub Stats</b> <img src="https://raw.githubusercontent.com/CryptoGerm/CryptoGerm/main/assets/stats.gif" width="20px">
+		<b>My GitHub Stats</b>
 	</summary>
 	<a href="https://github.com/CryptoGerm/github-readme-stats">
   		<img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=CryptoGerm&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
