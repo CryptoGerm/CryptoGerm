@@ -71,6 +71,6 @@ Operating System | <img align="center" src="https://raw.githubusercontent.com/Cr
 	<a href="https://www.linkedin.com/in/stuti-chaturvedi-b88a5318b/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/stuti.chaturvedi.58/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/stutichaturvedi19/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.twitter.com/stutiiee"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://www.twitter.com/stutiiee"><img src="https://img.icons8.com/bubbles/50/undefined/twitter-circled.png" alt="Twitter"/></a>
 </p>
 </samp>
